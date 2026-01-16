@@ -22,13 +22,13 @@ Este repositorio contiene el portafolio de evidencias correspondiente a la **Uni
 En esta sección se presenta la ejecución de los tutoriales del curso "Create with Code", abarcando el control del jugador, jugabilidad básica y físicas.
 
 ### 📂 Estructura del Progreso
-| Unidad | Temática | Estado | Enlace al Código | PDF |
-| :--- | :--- | :--- | :--- | :--- |
-| **Unidad 1** | El Control del Jugador | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-1-Player-Controller/blob/master/Assets/Scenes/Prototype%201.unity) |[Ver PDF](https://drive.google.com/file/d/13Ue0hE8tk2povMQA0ufA6LAbYXc_K7SE/view?usp=sharing)|
-| **Unidad 2** | Jugabilidad Básica | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-3---Sound-and-Effects/blob/main/Assets/Scenes/Prototype%203.unity) |[Ver PDF](https://drive.google.com/file/d/1ADpcmpm7rbvWLnT9OeoGNicMigUal2pW/view?usp=sharing)|
-| **Unidad 3** | Sonidos y Efectos | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-3---Sound-and-Effects/blob/main/Assets/Scenes/Prototype%203.unity) |[Ver PDF](https://drive.google.com/file/d/1RORZLrxGzuWW-kkh5TFDylxExdsjeGbt/view?usp=sharing)|
-| **Unidad 4** | Mecánica del Juego | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-4/tree/main/Assets) |[Ver PDF](https://drive.google.com/file/d/1aVjpQ3HmMhJd4mAz7v4f71VdSLquwG_f/view?usp=sharing)|
-| **Unidad 5** | Interfaz de Usuario | 🔄 En Progreso | [Ver Script/Carpeta] |[Ver Docs](https://docs.google.com/document/d/14OoBVNGazjhpOJ4Eo2Dg0ksnPptpJ06PQ_i1aHj0kSw/edit?usp=sharing)|
+| Unidad | Temática | Estado | Enlace al Código | PDF | PDF |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Unidad 1** | El Control del Jugador | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-1-Player-Controller/blob/master/Assets/Scenes/Prototype%201.unity) |[Ver PDF](https://drive.google.com/file/d/13Ue0hE8tk2povMQA0ufA6LAbYXc_K7SE/view?usp=sharing)|[video](https://drive.google.com/file/d/1G6hd_1OpKuhwU71AvkjqZKz6Rx8ZRSbD/view?usp=sharing)|
+| **Unidad 2** | Jugabilidad Básica | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-3---Sound-and-Effects/blob/main/Assets/Scenes/Prototype%203.unity) |[Ver PDF](https://drive.google.com/file/d/1ADpcmpm7rbvWLnT9OeoGNicMigUal2pW/view?usp=sharing)|[video parte 1](https://drive.google.com/file/d/1HfpEDgD5SZn0UvJ0G4FDeup-o7OGveR8/view?usp=sharing)/[video parte 2](https://drive.google.com/file/d/1JUAohwrFeYolngrN4FvltRFi-N3g92La/view?usp=sharing)|
+| **Unidad 3** | Sonidos y Efectos | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-3---Sound-and-Effects/blob/main/Assets/Scenes/Prototype%203.unity) |[Ver PDF](https://drive.google.com/file/d/1RORZLrxGzuWW-kkh5TFDylxExdsjeGbt/view?usp=sharing)|[video](https://drive.google.com/file/d/1LqrBgG1RGtX15O-tLu-aT4mR-VbteC4x/view?usp=sharing)|
+| **Unidad 4** | Mecánica del Juego | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-4/tree/main/Assets) |[Ver PDF](https://drive.google.com/file/d/1aVjpQ3HmMhJd4mAz7v4f71VdSLquwG_f/view?usp=sharing)|[video](https://drive.google.com/file/d/1k4HbHrDLcQQEU4CG35mP3dWK9UmpAnhe/view?usp=sharing)|
+| **Unidad 5** | Interfaz de Usuario | 🔄 En Progreso | [Ver Script/Carpeta] |[Ver Docs](https://docs.google.com/document/d/14OoBVNGazjhpOJ4Eo2Dg0ksnPptpJ06PQ_i1aHj0kSw/edit?usp=sharing)|[video]|
 
 ### 📄 Bitácora y Evidencias
 Documentación narrativa que incluye capturas de pantalla, explicación de retos solucionados y reflexión por lección.
@@ -41,7 +41,7 @@ Documentación narrativa que incluye capturas de pantalla, explicación de retos
 
 ## 🎮 Actividad 2: Proyecto de Videojuego (Versión Beta)
 
-**Título del Juego:** [Nombre de tu Juego]
+**Título del Juego:** [SLUDGERMAN]
 **Género:** 3D / [Survival-Horror]
 
 Este proyecto integra los conocimientos adquiridos para crear un entorno interactivo en 3D. [cite_start]El desarrollo se ha gestionado mediante un control de versiones riguroso para documentar cada funcionalidad implementada.
