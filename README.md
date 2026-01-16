@@ -22,8 +22,8 @@ Este repositorio contiene el portafolio de evidencias correspondiente a la **Uni
 En esta sección se presenta la ejecución de los tutoriales del curso "Create with Code", abarcando el control del jugador, jugabilidad básica y físicas.
 
 ### 📂 Estructura del Progreso
-| Unidad | Temática | Estado | Enlace al Código |
-| :--- | :--- | :--- | :--- |
+| Unidad | Temática | Estado | Enlace al Código | PDF |
+| :--- | :--- | :--- | :--- | :--- |
 | **Unidad 1** | El Control del Jugador | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-1-Player-Controller/blob/master/Assets/Scenes/Prototype%201.unity) |[Ver PDF](https://drive.google.com/file/d/13Ue0hE8tk2povMQA0ufA6LAbYXc_K7SE/view?usp=sharing)|
 | **Unidad 2** | Jugabilidad Básica | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-3---Sound-and-Effects/blob/main/Assets/Scenes/Prototype%203.unity) |[Ver PDF](https://drive.google.com/file/d/1ADpcmpm7rbvWLnT9OeoGNicMigUal2pW/view?usp=sharing)|
 | **Unidad 3** | Sonidos y Efectos | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-3---Sound-and-Effects/blob/main/Assets/Scenes/Prototype%203.unity) |[Ver PDF](https://drive.google.com/file/d/1RORZLrxGzuWW-kkh5TFDylxExdsjeGbt/view?usp=sharing)|
