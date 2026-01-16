@@ -19,16 +19,16 @@ Este repositorio contiene el portafolio de evidencias correspondiente a la **Uni
 
 ## Actividad 1A: Fundamentos 3D (Unity Learn)
 
-[cite_start]En esta sección se presenta la ejecución de los tutoriales del curso "Create with Code", abarcando el control del jugador, jugabilidad básica y físicas.
+En esta sección se presenta la ejecución de los tutoriales del curso "Create with Code", abarcando el control del jugador, jugabilidad básica y físicas.
 
 ### 📂 Estructura del Progreso
 | Unidad | Temática | Estado | Enlace al Código |
 | :--- | :--- | :--- | :--- |
-| **Unidad 1** | El Control del Jugador | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-1-Player-Controller/blob/master/Assets/Scenes/Prototype%201.unity) |
-| **Unidad 2** | Jugabilidad Básica | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-3---Sound-and-Effects/blob/main/Assets/Scenes/Prototype%203.unity) |
-| **Unidad 3** | Sonidos y Efectos | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-3---Sound-and-Effects/blob/main/Assets/Scenes/Prototype%203.unity) |
-| **Unidad 4** | Mecánica del Juego | 🔄 En Progreso | [Ver Script/Carpeta] |
-| **Unidad 5** | Interfaz de Usuario | 🔄 En Progreso | [Ver Script/Carpeta] |
+| **Unidad 1** | El Control del Jugador | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-1-Player-Controller/blob/master/Assets/Scenes/Prototype%201.unity) |[Ver PDF](https://drive.google.com/file/d/13Ue0hE8tk2povMQA0ufA6LAbYXc_K7SE/view?usp=sharing)|
+| **Unidad 2** | Jugabilidad Básica | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-3---Sound-and-Effects/blob/main/Assets/Scenes/Prototype%203.unity) |[Ver PDF](https://drive.google.com/file/d/1ADpcmpm7rbvWLnT9OeoGNicMigUal2pW/view?usp=sharing)|
+| **Unidad 3** | Sonidos y Efectos | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-3---Sound-and-Effects/blob/main/Assets/Scenes/Prototype%203.unity) |[Ver PDF](https://drive.google.com/file/d/1RORZLrxGzuWW-kkh5TFDylxExdsjeGbt/view?usp=sharing)|
+| **Unidad 4** | Mecánica del Juego | ✅ Completado (con Retos) | [Ver Script/Carpeta](https://github.com/CasillasCesar/Unit-4/tree/main/Assets) |[Ver PDF](https://drive.google.com/file/d/1aVjpQ3HmMhJd4mAz7v4f71VdSLquwG_f/view?usp=sharing)|
+| **Unidad 5** | Interfaz de Usuario | 🔄 En Progreso | [Ver Script/Carpeta] |[Ver Docs](https://docs.google.com/document/d/14OoBVNGazjhpOJ4Eo2Dg0ksnPptpJ06PQ_i1aHj0kSw/edit?usp=sharing)|
 
 ### 📄 Bitácora y Evidencias
 Documentación narrativa que incluye capturas de pantalla, explicación de retos solucionados y reflexión por lección.
@@ -42,30 +42,18 @@ Documentación narrativa que incluye capturas de pantalla, explicación de retos
 ## 🎮 Actividad 2: Proyecto de Videojuego (Versión Beta)
 
 **Título del Juego:** [Nombre de tu Juego]
-**Género:** 3D / [Aventura/Plataformas/etc.]
+**Género:** 3D / [Survival-Horror]
 
-Este proyecto integra los conocimientos adquiridos para crear un entorno interactivo en 3D. [cite_start]El desarrollo se ha gestionado mediante un control de versiones riguroso para documentar cada funcionalidad implementada[cite: 11, 24].
+Este proyecto integra los conocimientos adquiridos para crear un entorno interactivo en 3D. [cite_start]El desarrollo se ha gestionado mediante un control de versiones riguroso para documentar cada funcionalidad implementada.
 
 ### Características Implementadas (Estado Actual)
-* **Diseño de Niveles:** 3 Niveles funcionales con transiciones y dificultad progresiva.
+* **Diseño de Niveles:** 4 Niveles funcionales con transiciones y dificultad progresiva.
 * **Físicas y Colisiones:** Sistema de detección de colisiones optimizado para el jugador y el entorno.
 * **Mecánicas:** Movimiento del personaje y lógica principal del juego.
 * **Control de Versiones:** Repositorio con commits descriptivos que narran la evolución del código.
 
 ### 📥 Acceso al Proyecto
 * **Repositorio del Juego:** [🔗 Enlace al Repo del Juego](https://github.com/CasillasCesar/SLUDGERMAN)
-
----
-
-## Actividad 3: Ejercicios Prácticos
-
-Colección de 5 ejercicios prácticos solicitados para demostrar competencias específicas de programación orientada a objetos en Unity[cite: 63].
-
-1.  **Ejercicio 1:** [Preparación del entorno] - [🔗 Enlace al Script]
-2.  **Ejercicio 2:** [Diseño del escenario] - [🔗 Enlace al Script]
-3.  **Ejercicio 3:** [Integración de personajes y objetos] - [🔗 Enlace al Script]
-4.  **Ejercicio 4:** [Sonido y ambiente] - [🔗 Enlace al Script]
-5.  **Ejercicio 5:** [Consejos narrativos] - [🔗 Enlace al Script]
 
 ---
 
