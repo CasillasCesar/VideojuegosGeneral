@@ -6,7 +6,7 @@
 **Facilitador:** Gabrile Barrón
 **Alumno:** César Daniel Casillas Céspedes
 **Grupo:** GIDS5101-E
-**Fecha:** 
+**Fecha:** 
 
 ---
 
@@ -44,7 +44,7 @@ Documentación narrativa que incluye capturas de pantalla, explicación de retos
 **Título del Juego:** [SLUDGERMAN]
 **Género:** 3D / [Survival-Horror]
 
-Este proyecto integra los conocimientos adquiridos para crear un entorno interactivo en 3D. [cite_start]El desarrollo se ha gestionado mediante un control de versiones riguroso para documentar cada funcionalidad implementada.
+Este proyecto integra los conocimientos adquiridos para crear un entorno interactivo en 3D. El desarrollo se ha gestionado mediante un control de versiones riguroso para documentar cada funcionalidad implementada.
 
 ### Características Implementadas (Estado Actual)
 * **Diseño de Niveles:** 4 Niveles funcionales con transiciones y dificultad progresiva.
@@ -53,7 +53,21 @@ Este proyecto integra los conocimientos adquiridos para crear un entorno interac
 * **Control de Versiones:** Repositorio con commits descriptivos que narran la evolución del código.
 
 ### 📥 Acceso al Proyecto
+
+> [!NOTE]
+> ¡La versión Beta ya está disponible para jugar en navegador o descargar!
+
 * **Repositorio del Juego:** [🔗 Enlace al Repo del Juego](https://github.com/CasillasCesar/SLUDGERMAN)
+* **Jugar Ahora:**
+<a href="https://cesarcasillas.itch.io/sludgerman" target="_blank"><img src="https://img.shields.io/badge/Itch.io-Jugar%20SLUDGERMAN-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white" alt="Jugar en Itch.io" /></a>
+
+---
+
+## 📑 Documentación Unidad 3
+
+Acceso directo al documento de evidencias correspondiente a la Unidad 3 de la asignatura:
+
+<a href="https://drive.google.com/file/d/1EyfoPRGptHfS-iZ3AFr0huWTOW7rdu2N/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Google_Drive-Documento_Unidad_3-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Ver PDF Unidad 3" /></a>
 
 ---
 
